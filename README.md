@@ -1,4 +1,3 @@
-# SupriyaJilugu
 # API Testing Framework
 ## Overview
 This project is a simple API testing framework built using Python, Pytest and Requests.
